@@ -1,0 +1,10 @@
+VM_NAME: customspacelinewars
+VM_IP: 192.168.0.60
+VM_CPUCOUNT: 1
+VM_MEMORY: 2048
+
+HOST_NAME: customspacelinewars.dev
+
+DB_NAME: application
+DB_USER: application
+DB_PASS: application
